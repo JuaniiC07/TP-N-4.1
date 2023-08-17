@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683662199 source:d:\programación\programación y laboratorio i\tp n°4 arrays\tp n°4.1 matrices y strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
